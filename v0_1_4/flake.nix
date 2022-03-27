@@ -11,6 +11,7 @@
   inputs.src-nimtraits-v0_1_4.ref   = "refs/tags/v0.1.4";
   inputs.src-nimtraits-v0_1_4.owner = "haxscramper";
   inputs.src-nimtraits-v0_1_4.repo  = "nimtraits";
+  inputs.src-nimtraits-v0_1_4.dir   = "";
   inputs.src-nimtraits-v0_1_4.type  = "github";
   
   inputs."hmisc".owner = "nim-nix-pkgs";
