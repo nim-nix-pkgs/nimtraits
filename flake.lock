@@ -1182,11 +1182,11 @@
       },
       "locked": {
         "dir": "v0_14_6",
-        "lastModified": 1667336022,
-        "narHash": "sha256-IN09vgE/7fI80scgzPr0y6r0BcBk8YDsgHzYAJd9K2k=",
+        "lastModified": 1668750893,
+        "narHash": "sha256-mXKVMkcLVvLvQglRd1Dg7qH4MC89Q/ev/AmANj/5DJs=",
         "owner": "nim-nix-pkgs",
         "repo": "hmisc",
-        "rev": "6542665b41e5ee90dcb8aa723b57049297b1b614",
+        "rev": "b72e16c037eaa055faa046fab10858c3bf46c223",
         "type": "github"
       },
       "original": {
@@ -2040,11 +2040,11 @@
       },
       "locked": {
         "dir": "v0_4_2",
-        "lastModified": 1667336181,
-        "narHash": "sha256-Wjftva7XQgbWvW8p8oyopVxYZkJCmhzrYyqpkzvwhPs=",
+        "lastModified": 1668751130,
+        "narHash": "sha256-p9HCGT0VzLP1sA+hcFASJZhp1cF1IBN3Ric+OlK5pT0=",
         "owner": "nim-nix-pkgs",
         "repo": "hnimast",
-        "rev": "860a7ddc31a8b815f1ca59d6b9c660df4f98702b",
+        "rev": "04db1bdadc991238cb3a3dcf940d90dcd4288aae",
         "type": "github"
       },
       "original": {
@@ -2352,11 +2352,11 @@
       },
       "locked": {
         "dir": "v0_2_18",
-        "lastModified": 1667336775,
-        "narHash": "sha256-hQ5TtqHc3pKa3SLHzNyKMEEJ8ZVzPxyvoH0BPrSc88U=",
+        "lastModified": 1668751949,
+        "narHash": "sha256-oFd+Nj6y2SUjizilFvMCjyxhiuLVKP6U1Zeh9EbPJ4g=",
         "owner": "nim-nix-pkgs",
         "repo": "hpprint",
-        "rev": "d60ddc02a3142b91a8bbeb9d141850d0df1e4c4c",
+        "rev": "9495a786f5c71f87f96a2e7b95de18bb9cd46c72",
         "type": "github"
       },
       "original": {
@@ -3345,11 +3345,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667336805,
-        "narHash": "sha256-XlRAWi0fm8T3fx1RUvaB3cSoef/3/ioWWvRSy4o0drs=",
+        "lastModified": 1668751995,
+        "narHash": "sha256-ijYBF+axCO/lKwcyjjZv2c1pQ5gnmXGtyokMCG/zMXk=",
         "owner": "nim-nix-pkgs",
         "repo": "nimtraits",
-        "rev": "9026b767fbc4d139eb1f635b5c653e4ebb19c32f",
+        "rev": "efcca2cd4b89e4435848cdf1393d0f199749b997",
         "type": "github"
       },
       "original": {
@@ -3375,11 +3375,11 @@
       },
       "locked": {
         "dir": "v0_1_2",
-        "lastModified": 1667336805,
-        "narHash": "sha256-XlRAWi0fm8T3fx1RUvaB3cSoef/3/ioWWvRSy4o0drs=",
+        "lastModified": 1668751995,
+        "narHash": "sha256-ijYBF+axCO/lKwcyjjZv2c1pQ5gnmXGtyokMCG/zMXk=",
         "owner": "nim-nix-pkgs",
         "repo": "nimtraits",
-        "rev": "9026b767fbc4d139eb1f635b5c653e4ebb19c32f",
+        "rev": "efcca2cd4b89e4435848cdf1393d0f199749b997",
         "type": "github"
       },
       "original": {
@@ -3405,11 +3405,11 @@
       },
       "locked": {
         "dir": "v0_1_3",
-        "lastModified": 1667336805,
-        "narHash": "sha256-XlRAWi0fm8T3fx1RUvaB3cSoef/3/ioWWvRSy4o0drs=",
+        "lastModified": 1668751995,
+        "narHash": "sha256-ijYBF+axCO/lKwcyjjZv2c1pQ5gnmXGtyokMCG/zMXk=",
         "owner": "nim-nix-pkgs",
         "repo": "nimtraits",
-        "rev": "9026b767fbc4d139eb1f635b5c653e4ebb19c32f",
+        "rev": "efcca2cd4b89e4435848cdf1393d0f199749b997",
         "type": "github"
       },
       "original": {
@@ -3435,11 +3435,11 @@
       },
       "locked": {
         "dir": "v0_1_4",
-        "lastModified": 1667336805,
-        "narHash": "sha256-XlRAWi0fm8T3fx1RUvaB3cSoef/3/ioWWvRSy4o0drs=",
+        "lastModified": 1668751995,
+        "narHash": "sha256-ijYBF+axCO/lKwcyjjZv2c1pQ5gnmXGtyokMCG/zMXk=",
         "owner": "nim-nix-pkgs",
         "repo": "nimtraits",
-        "rev": "9026b767fbc4d139eb1f635b5c653e4ebb19c32f",
+        "rev": "efcca2cd4b89e4435848cdf1393d0f199749b997",
         "type": "github"
       },
       "original": {
@@ -3465,11 +3465,11 @@
       },
       "locked": {
         "dir": "v0_1_5",
-        "lastModified": 1667336805,
-        "narHash": "sha256-XlRAWi0fm8T3fx1RUvaB3cSoef/3/ioWWvRSy4o0drs=",
+        "lastModified": 1668751995,
+        "narHash": "sha256-ijYBF+axCO/lKwcyjjZv2c1pQ5gnmXGtyokMCG/zMXk=",
         "owner": "nim-nix-pkgs",
         "repo": "nimtraits",
-        "rev": "9026b767fbc4d139eb1f635b5c653e4ebb19c32f",
+        "rev": "efcca2cd4b89e4435848cdf1393d0f199749b997",
         "type": "github"
       },
       "original": {
@@ -5221,6 +5221,23 @@
         "type": "github"
       }
     },
+    "src-unicodedb-0_11_1": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1667709069,
+        "narHash": "sha256-bLZADqf0bIs6Ms2cvYa0CxVytYxnxgW8k9RnzsKKzE4=",
+        "owner": "nitely",
+        "repo": "nim-unicodedb",
+        "rev": "7d3b449c44730804a3c9b4f4f3dbeca028212d05",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nitely",
+        "ref": "refs/tags/0.11.1",
+        "repo": "nim-unicodedb",
+        "type": "github"
+      }
+    },
     "src-unicodedb-v0_10_0": {
       "flake": false,
       "locked": {
@@ -5510,23 +5527,6 @@
         "type": "github"
       }
     },
-    "src-unicodedb-v0_10_0_25": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1635061637,
-        "narHash": "sha256-qt2pyiGrvJXSes+E0eubx98mrF+jTudPD6hkUXjw0/4=",
-        "owner": "nitely",
-        "repo": "nim-unicodedb",
-        "rev": "675407fa4b6e701ebf9f94e5370ce18c3af40cc3",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nitely",
-        "ref": "refs/tags/v0.10.0",
-        "repo": "nim-unicodedb",
-        "type": "github"
-      }
-    },
     "src-unicodedb-v0_10_0_3": {
       "flake": false,
       "locked": {
@@ -5658,19 +5658,19 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0"
+        "src-unicodedb-0_11_1": "src-unicodedb-0_11_1"
       },
       "locked": {
-        "dir": "v0_10_0",
-        "lastModified": 1648163711,
-        "narHash": "sha256-n7JO0NyBn839Ra28ErdDwXSafT3CYHBpJbaP6O/uSdw=",
+        "dir": "0_11_1",
+        "lastModified": 1668749120,
+        "narHash": "sha256-X+LjWZu0wC+pEFfxPvrpCUBN9Xy0o1+QS6wcayq+b1g=",
         "owner": "nim-nix-pkgs",
         "repo": "unicodedb",
-        "rev": "2ce0f2f6fa69fc3881b504713a92e1b3377fc6ec",
+        "rev": "405408cf062791bda03f3f672a0ec24adab203e4",
         "type": "github"
       },
       "original": {
-        "dir": "v0_10_0",
+        "dir": "0_11_1",
         "owner": "nim-nix-pkgs",
         "ref": "master",
         "repo": "unicodedb",
@@ -5693,7 +5693,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_10"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_9"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -5724,7 +5724,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_11"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_10"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -5757,7 +5757,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_12"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_11"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -5792,7 +5792,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_13"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_12"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -5825,7 +5825,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_14"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_13"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -5860,7 +5860,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_15"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_14"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -5891,7 +5891,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_16"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_15"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -5924,7 +5924,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_17"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_16"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -5959,7 +5959,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_18"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_17"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -5992,7 +5992,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_19"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_18"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6025,7 +6025,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_2"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6060,7 +6060,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_20"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_19"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6091,7 +6091,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_21"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_20"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6124,7 +6124,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_22"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_21"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6159,7 +6159,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_23"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_22"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6192,7 +6192,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_24"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_23"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6227,7 +6227,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_25"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_24"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6262,7 +6262,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_3"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_2"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6295,7 +6295,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_4"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_3"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6330,7 +6330,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_5"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_4"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6361,7 +6361,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_6"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_5"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6394,7 +6394,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_7"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_6"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6429,7 +6429,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_8"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_7"
       },
       "locked": {
         "dir": "v0_10_0",
@@ -6462,7 +6462,7 @@
           "hmisc",
           "nixpkgs"
         ],
-        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_9"
+        "src-unicodedb-v0_10_0": "src-unicodedb-v0_10_0_8"
       },
       "locked": {
         "dir": "v0_10_0",
